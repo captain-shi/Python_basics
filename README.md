@@ -8,3 +8,7 @@ Writing first line of in your favorite PYTHON script editor
 Shows the basic maths operations
 # py_004
 Working with strings and formatting
+# py_005
+Basic list operation
+# py_006
+Tuples and Dictionary: Another data structure type
